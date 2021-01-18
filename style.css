@@ -1,0 +1,43 @@
+body{
+    background-image: url('design.jpg')
+}
+
+    header{
+        margin-left: 30%;
+        margin-right: 30px;
+    color: black;
+    font-size:xx-large;
+}
+h1{ margin-left: 40%;
+    margin-right: 20%;
+    color: rgb(43, 44, 40);
+    font-size: 0.50cm;
+
+}
+table{color: rgb(7, 6, 6);
+ border-collapse: separate; 
+ border-color: rgb(163, 126, 126); 
+
+font-size: 0.70cm;
+
+}
+
+
+P{
+    margin-left: 30%;
+    margin-right: 30%;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-bottom-color: rgb(226, 155, 155);
+    border-top-color: rgb(226, 155, 155);
+    font-size: 140%;
+}
+table{
+    
+    margin-right: 30%;
+    margin-left: 30%;
+}
+image{
+    margin-left: 60%;
+    margin-right: 20%;
+}

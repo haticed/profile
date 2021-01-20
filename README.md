@@ -1,2 +1,2 @@
 # profile
-Profile Page for FrondEnd lesson 
+ https://haticed.github.io/profile/
